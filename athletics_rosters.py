@@ -1,3 +1,7 @@
+##################
+# this code is not complete for importing teams
+# note you will not see it in the control file until it's completed
+# 
 from BbApiConnector import BbApiConnector
 from bottle import request, response, post, get, put, delete
 import json
